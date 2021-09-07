@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
+        name: `the_fhtamim Themes`,
         short_name: `the_fhtamim Themes`,
         start_url: `/`,
         background_color: `#fff`,
